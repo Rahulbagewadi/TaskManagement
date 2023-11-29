@@ -5,7 +5,7 @@ function header(){
             <nav className="nav">
                 <div className="nav-left">
                     <a className="brand" href="#">
-                        WPWebTasks
+                        AulaCube Technologies Pvt Ltd
                     </a>
                 </div>
                <div className="nav-right">
